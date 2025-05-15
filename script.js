@@ -28,7 +28,7 @@ const draftData = {
         {
             pick: 5,
             team: "Lil Peanut's Padres",
-            player: "Matthew Golden",
+            player: "Matthew Golden - WR",
             description: "'Bet' - Padres GM after the Murphy's decide to pass on Golden."
         },
         {
