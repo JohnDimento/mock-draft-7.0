@@ -17,7 +17,7 @@ const draftData = {
             pick: 3,
             team: "DoosBoys",
             player: "Omarion Hampton - RB",
-            description: "Hampton is a powerful, three-down back with dependable hands and the vision to consistently hit creases. At 1.02, he perfectly addresses the DoosBoys’ need for a RB1."
+            description: "Hampton is a powerful, three-down back with dependable hands and the vision to consistently hit creases. At 1.03, he perfectly addresses the DoosBoys’ need for a RB1."
         },
         {
             pick: 4,
@@ -53,19 +53,19 @@ const draftData = {
             pick: 9,
             team: "Arlington Lads",
             player: "Colston Loveland - TE",
-            description: "The number 10 pick in the NFL draft, Bem Johnson sees something in Loveland, and it looks like the Lads see it too."
+            description: "The number 10 pick in the NFL draft, Ben Johnson sees something in Loveland, and it looks like the Lads see it too."
         },
         {
             pick: 10,
             team: "Highland Hawgs",
             player: "Quinshon Judkins - RB",
-            description: "The Hawgs go out and get their RB1 at pick 10, "
+            description: "Quinshon Judkins was a problem every year in college and will continue to be in the NFL. The Hawgs go out and get their RB1 at pick 10."
         },
         {
             pick: 11,
             team: "Winston's Warriors",
             player: "RJ Harvey - RB",
-            description: "RJ Harvey is a project back, but man if he works ot in that Sean Payton system, he could become a fantasy star quickly."
+            description: "RJ Harvey is a project back, but man if he works out in that Sean Payton system, he could become a fantasy star quickly."
         },
         {
             pick: 12,
@@ -91,7 +91,7 @@ const draftData = {
             pick: 15,
             team: "Highland Hawgs",
             player: "Jaxson Dart - QB",
-            description: "Who knows how Jaxson Dart will turn out in the league? The Hawgs get good value and take a shot on him here on the 2nd. Will he boom or bust? Time will tell."
+            description: "Who knows how Jaxson Dart will turn out in the league? The Hawgs get good value and take a shot on him here in the 2nd. Will he boom or bust? Time will tell."
         },
         {
             pick: 16,
@@ -103,13 +103,13 @@ const draftData = {
             pick: 17,
             team: "Lil Peanut's Padres",
             player: "Jayden Higgins - WR",
-            description: "A huge target with great hands. The Padres get a great WR who should see the field in a ceippled Houston WR room."
+            description: "A huge target with great hands. The Padres get a great WR who should see the field in a crippled Houston WR room."
         },
         {
             pick: 18,
             team: "Winston's Warriors",
             player: "Cam Skattebo - RB",
-            description: "A bruising, fan-favorite in college. Skattebo should see snaps early in a shortstaffed NY backfield."
+            description: "A bruising, fan-favorite in college. Skattebo should see snaps early in a short-staffed NY backfield."
         },
         {
             pick: 19,
@@ -139,7 +139,7 @@ const draftData = {
             pick: 23,
             team: "Lil Peanut's Padres",
             player: "Shedeur Sanders - QB",
-            description: "After losing their team mascot (Deshaun Watson), the Padres reup on a player who could turn into a score if he get Perfect Timing Taha.",
+            description: "After losing their team mascot (Deshaun Watson), the Padres reup on a player who could turn into a score if he gets Perfect Timing Taha.",
         },
         {
             pick: 24,
