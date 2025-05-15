@@ -9,9 +9,9 @@ const draftData = {
         },
         {
             pick: 2,
-            team: "Winston's Warriors",
-            player: "Tetairoa Mcmillan - WR",
-            description: "A tall, athletic receiver with excellent ball skills. Mcmillan would fit perfectly into the Warrior's WR room."
+            team: "Arlington Lads",
+            player: "Travis Hunter - WR",
+            description: "The Lads trade up for generational talent. After seeing him fall in recent mocks, GM S. Villegas is quick to scoop up the 'Shohei Ohtani of football'."
         },
         {
             pick: 3,
@@ -22,14 +22,14 @@ const draftData = {
         {
             pick: 4,
             team: "Dropkick Murphys",
-            player: "Matthew Golden - WR",
-            description: "Go Pack Go! Analytics may say that this is a reach, but Golden is a quick WR with great hands and the upside to take over in this Packer's offense."
+            player: "Tetairoa Mcmillan - WR",
+            description: "Instead of going after their hometown boy, the Murphys go out and get a physical specimen at WR."
         },
         {
             pick: 5,
             team: "Lil Peanut's Padres",
-            player: "Cam Ward - QB",
-            description: "With only 1 starting QB on the roster, the Padres have the opportunity to draft the face of their franchise for the future of the league. It's hard to pass on the 1.01 at pick 5."
+            player: "Matthew Golden",
+            description: "'Bet' - Padres GM after the Murphy's decide to pass on Golden."
         },
         {
             pick: 6,
@@ -40,64 +40,64 @@ const draftData = {
         {
             pick: 7,
             team: "Memphis Jets",
-            player: "Travis Hunter - WR/DB",
-            description: "A dream scenario for the Jets. Hunter falls here because of his snap count and target share risks, but the Jets are quick to scoop him up."
+            player: "Cameron Ward - QB",
+            description: "The Jets QB room lacks a star. Carried by position players in last years championship run, the Jets take a shot on their QB of the future."
         },
         {
             pick: 8,
             team: "Arlington Ladds",
             player: "Emeka Egbuka - WR",
-            description: "Landing spot is the only question here for Egbuka. With an already stacked WR room, the Ladds get to wait for Egbuka to blossom into a true WR1 as the Bucs WRs age."
+            description: "Landing spot is the only question here for Egbuka. With an already stacked WR room, the Lads get to wait for Egbuka to blossom into a true WR1 as the Bucs WRs age."
         },
         {
             pick: 9,
-            team: "Winston's Warriors",
-            player: "Quinshon Judkins - RB",
-            description: "Great pick here for the Warriors. To get a back as talented as Judkins at the 1.09 is a steal."
+            team: "Arlington Lads",
+            player: "Colston Loveland - TE",
+            description: "The number 10 pick in the NFL draft, Bem Johnson sees something in Loveland, and it looks like the Lads see it too."
         },
         {
             pick: 10,
             team: "Highland Hawgs",
-            player: "Colston Loveland - TE",
-            description: "Not the flashy pick, but the right pick. I love the value here getting Caleb Williams safety blanket for years to come."
+            player: "Quinshon Judkins - RB",
+            description: "The Hawgs go out and get their RB1 at pick 10, "
         },
         {
             pick: 11,
             team: "Winston's Warriors",
-            player: "Kaleb Johnson - RB",
-            description: "Getting snaps at RB in the Steelers offense is almost a guaruntee.  Mike Tomlin gets another gritty back and the Warriors get another great RB."
+            player: "RJ Harvey - RB",
+            description: "RJ Harvey is a project back, but man if he works ot in that Sean Payton system, he could become a fantasy star quickly."
         },
         {
             pick: 12,
-            team: "Kilpatty Vegas",
-            player: "Jaxson Dart - QB",
-            description: "When you think Kilpatty Vegas, you think flashy. Dart is the epitome of a flashy pick and I love this landing spot."
+            team: "The Dukes",
+            player: "Tyler Warren - TE",
+            description: "With Mark Andrews aging, The Dukes trade up and get their TE of the future."
         }
     ],
     round2: [
         {
             pick: 13,
             team: "Winston's Warriors",
-            player: "Tyler Warren - TE",
-            description: "Arguably the last elite player on the board. A great trade up for the Warriors lands them their TE of the future."
+            player: "Luther Burden - WR",
+            description: "Luther has an uphill battle to climb with all the mouths to feed in Chicago, but he has the talent to be a star if handled right."
         },
         {
             pick: 14,
-            team: "Rocky Top Rowdies",
-            player: "Cam Skattebo - RB",
-            description: "A hard-nosed runner with good balance and power. Skattebo brings a physical presence to the Rowdies' ground game."
+            team: "Memphis Jets",
+            player: "Kaleb Johnson - RB",
+            description: "A hard running 3 down back. Johnson fits perfectly into Tomlin and Smith's ground attack in Pittsburgh and the Jets snag a great talent."
         },
         {
             pick: 15,
             team: "Highland Hawgs",
-            player: "RJ Harvey - RB",
-            description: "One word here, value. The Hawgs get a Sean Payton RB who should see valuable snaps in year 1."
+            player: "Jaxson Dart - QB",
+            description: "Who knows how Jaxson Dart will turn out in the league? The Hawgs get good value and take a shot on him here on the 2nd. Will he boom or bust? Time will tell."
         },
         {
             pick: 16,
-            team: "Highland Hawgs",
-            player: "Luther Burden - WR",
-            description: "Burden was arguably the WR1 preseason. Getting him here at 16 is a great pick up for the Hawgs."
+            team: "Kilpatty Vegas",
+            player: "Tre Harris - WR",
+            description: "Dominant big play threat going into a great system. A boom or bust pick, but Tre Harris could be a sleeper WR1 for the Chargers."
         },
         {
             pick: 17,
@@ -108,14 +108,14 @@ const draftData = {
         {
             pick: 18,
             team: "Winston's Warriors",
-            player: "Tre Harris - WR",
-            description: "Dominant big play threat going into a great system. A boom or bust pick, but Tre Harris could be a sleeper WR1 for the Chargers."
+            player: "Cam Skattebo - RB",
+            description: "A bruising, fan-favorite in college. Skattebo should see snaps early in a shortstaffed NY backfield."
         },
         {
             pick: 19,
             team: "Winston's Warriors",
-            player: "Brayshul Tuten - RB",
-            description: "Tuten put on a show at the combine. Going into a confusing RB room in Jacksonville, he should have a chance to take the starting job."
+            player: "Kyle Williams - WR",
+            description: "A shifty receiver with good hands and route running. Williams is going into a Patriots offense with not many weapons. The Warriors get a stud late."
         },
         {
             pick: 20,
@@ -125,27 +125,27 @@ const draftData = {
         },
         {
             pick: 21,
-            team: "Memphis Jets",
-            player: "Jaylin Noel - WR",
-            description: "After losing a lot of key pieces in trades, the Jets get a boom or bust weapon who could explode in the NFL."
+            team: "Rocky Top Rowdies",
+            player: "Brayshul Tuten - RB",
+            description: "Tuten turned heads at the combine, and with a new coaching stuff and disappointing RB room. Tuten could steal reps early."
         },
         {
             pick: 22,
             team: "Expiring Goods",
-            player: "Kyle Williams - WR",
-            description: "A shifty receiver with good hands and route running. Williams is going into a Patriots offense with not many weapons. Expiring Goods get their guy."
+            player: "Jaylin Noel - WR",
+            description: "A shifty, deep threat receiver with good hands and route running. Noel is going into a crippled Texans WR room and could explode."
         },
         {
             pick: 23,
             team: "Lil Peanut's Padres",
-            player: "Pat Bryant - WR",
-            description: "The Broncos only real threat last year was Courtland Sutton. The Padre's get another piece for their push to the playoffs.",
+            player: "Shedeur Sanders - QB",
+            description: "After losing their team mascot (Deshaun Watson), the Padres reup on a player who could turn into a score if he get Perfect Timing Taha.",
         },
         {
             pick: 24,
-            team: "Rocky Top Rowdies",
-            player: "Dylan Sampson - RB",
-            description: "The Rowdies grab a hometown boy here. Judkins has already proved he is fine playing in a 2 RB system, leaving plenty of space for the SEC POTY to shine."
+            team: "Memphis Jets",
+            player: "Terrance Ferguson",
+            description: "Sean Mcvay used a lot of draft captial and reportedly loves Ferguson. The Jets reup at TE after losing Kittle."
         }
     ]
 };
