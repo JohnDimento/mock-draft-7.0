@@ -144,7 +144,7 @@ const draftData = {
         {
             pick: 24,
             team: "Memphis Jets",
-            player: "Terrance Ferguson",
+            player: "Terrance Ferguson - TE",
             description: "Sean Mcvay used a lot of draft captial and reportedly loves Ferguson. The Jets reup at TE after losing Kittle."
         }
     ]
